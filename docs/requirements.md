@@ -68,7 +68,7 @@ Profile pages should display:
 It would be cool if they also displayed:
   * List of the hero's allies
   * List of the hero's enemies
-  * List of the hero's powers
+  * List of the hero's abilities
 
 Each ally and enemy name should also be a profile page link.
 
