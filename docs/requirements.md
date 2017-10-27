@@ -16,14 +16,13 @@ You may use a CSS framework for styling if you wish. You can use Facebook's styl
 
 ## Data
 
-The supplied superheroes.sql file contains create table and insert statements to get you started. You may customize this data if you wish.
+The supplied superheroes.sql file contains create table and insert statements to get you started. You will need to customize the data a little, since image links were not provided. You can make other changes, too, if you wish.
 
 ## Application file structure
 
 Minimally:
 
-  app/
-    index.php - menu page
+  index.php - menu page
   docs/
     requirements.md
   README.md
@@ -32,7 +31,7 @@ Minimally:
 
 Make sure there's something to read in your README file.
 
-It's okay if your project has more files, but at the least you need the ones listed above.
+It's okay if your project has more files, or if you organize your code with subdirectories, but at the least you need the ones listed above.
 
 ## Required Page
 
@@ -65,12 +64,15 @@ Profile pages should display:
   * Large profile image
   * About Me
   * Biography
+
+It would be cool if they also displayed:
   * List of the hero's allies
   * List of the hero's enemies
+  * List of the hero's powers
 
 Each ally and enemy name should also be a profile page link.
 
-Profile pages should also include a link to return to the roster (index.php).
+Profile pages should include a link to return to the roster (index.php).
 
 ## If you get stuck...
 
